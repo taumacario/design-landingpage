@@ -20,4 +20,4 @@ but I decided not to change so that I can compare with other projects and see my
 </br>
 </br>
 </br>
-You can see the full page on [[GitHub Pages](https://taumacario.github.io/design-landingpage/).]
+You can see the full page on [GitHub Pages](https://taumacario.github.io/design-landingpage/).
